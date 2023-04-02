@@ -23,7 +23,7 @@ $disqus = "https://watchzia.disqus.com"; // Disqus
 $cdn = "https://cdnzia.pages.dev"; // cdn repo https://github.com/warlordsnet/cdnzia
 
 // API URL
-$api ="https://animezia.onrender.com"; // api repo https://github.com/warlordsnet/zia-api
+$api ="https://anime-7w8xd1h3b-kazuyakun07.vercel.app"; // api repo https://github.com/phoenix-monarch/anime-api
 
 
 $banner = "https://cdnzia.pages.dev/images/banner.webp";  //Banner
